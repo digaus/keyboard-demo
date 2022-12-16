@@ -10,7 +10,7 @@ const config: CapacitorConfig = {
         "androidScaleType": "CENTER_CROP",
         "backgroundColor": "#00000000",
         "showSpinner": false,
-        "launchAutoHide": true,
+        "launchAutoHide": false,
         "splashImmersive": true,
     },
     "Keyboard": {
